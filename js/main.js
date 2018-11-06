@@ -220,6 +220,4 @@ $('.menu-movil').on('click',function() {
     $('#minutos').html(event.strftime('%M'));
     $('#segundos').html(event.strftime('%S'));
   });
-
-
 });

@@ -222,7 +222,7 @@ h1.nombre-sitio span{
 }
 /*HEADER*/
 div.hero{
-  background-image: url(../img/encabezado.jpg);
+  background-image: url(../img/galeria/Cabana.jpg);
   height: 100vh;
   background-position: top center;
   background-size: cover;
